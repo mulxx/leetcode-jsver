@@ -79,17 +79,3 @@
 ### 22.11.26 更新
 
 从最开始两个月过后的今天还是会为一道题看题解中大家都无压力直接写出来而自己还是笨比而沮丧，今天写的尤其心不在焉，心里像长草了一样，可能是因为发生了很多事情，吉祥苑的同胞 may you rest in peace in heaven
-
-引用一首在洪灏老师那里看到的诗吧，作者是德国戏剧家、诗人贝尔托·布莱希特
-
-这是人们会说起的一年，这是人们说起就沉默的一年。
-
-This is the year people will talk about. This is the year people will be silent about.
-
-老人看着年轻人死去，傻瓜看着聪明人死去。
-
-The old see the young die. The foolish see the wise die.
-
-大地不再生产，它吞噬，天空不下雨，只下铁。
-
-The earth no longer produces, it devours. The sky hurls down no rain, only iron.
