@@ -1,4 +1,4 @@
-# leetcode-jsver(140)
+# leetcode-jsver(184)
 从菜狗开始的力扣 JS 版题解
 
 ## 前言
